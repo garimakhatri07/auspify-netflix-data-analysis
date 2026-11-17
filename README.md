@@ -53,14 +53,15 @@ The project uses a Netflix titles dataset containing information about Movies an
 ## Repository Structure
 
 ```text
-Auspify_Netflix_Data_Analysis/
+auspify-netflix-data-analysis/
 │
-├── 01_Dataset/
-├── 02_Netflix_Data_Cleaning/
-├── 03_Netflix_Cleaned_Dataset/
-├── 04_Country_Wise_Netflix_Analysis/
-├── 05_Netflix_Release_Year_Trend_Analysis/
-├── 06_Netflix_Content_Rating_Genre_Analysis/
+├── 01_Dataset.csv
+├── 02_Netflix_Data_Cleaning.ipynb
+├── 03_Netflix_Cleaned_Dataset.csv
+├── 04_Country_Wise_Netflix_Analysis.ipynb
+├── 05_Netflix_Release_Year_Trend_Analysis.ipynb
+├── 06_Netflix_Content_Rating_Genre_Analysis.ipynb
+└── README.md
 ```
 
 ## Key Learning Outcomes
@@ -80,5 +81,3 @@ Through these tasks, I gained practical experience in:
 **Project:** Netflix Data Analysis
 
 This project helped me apply Python and data analysis concepts to a practical dataset and improve my understanding of the overall data analysis workflow.
-
-ThankYou Auspify !!!!!
