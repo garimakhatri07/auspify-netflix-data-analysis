@@ -61,7 +61,6 @@ Auspify_Netflix_Data_Analysis/
 ├── 04_Country_Wise_Netflix_Analysis/
 ├── 05_Netflix_Release_Year_Trend_Analysis/
 ├── 06_Netflix_Content_Rating_Genre_Analysis/
-└── 07_Screenshots/
 ```
 
 ## Key Learning Outcomes
